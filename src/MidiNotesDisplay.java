@@ -87,7 +87,7 @@ public class MidiNotesDisplay {
         String outputFilePath = "C:\\Users\\josef\\Desktop\\MIDIProject\\midi_notes_data2.txt"; // The path where you want to save the extracted data
 
         Sequence sequence = MidiSystem.getSequence(new File(midiFilePath));
-        //displayRecordedNotes(sequence);
+        displayRecordedNotes(sequence);
         extractAndSaveMidiData(sequence,outputFilePath);
     }
 }
