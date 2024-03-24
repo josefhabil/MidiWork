@@ -1,0 +1,12 @@
+Track 1:
+Note On, C4, Key=60, Velocity=38
+Note Off, C4, Key=60
+Note On, D4, Key=62, Velocity=47
+Note Off, D4, Key=62
+Note On, E4, Key=64, Velocity=48
+Note Off, E4, Key=64
+Note On, F4, Key=65, Velocity=52
+Note Off, F4, Key=65
+Note On, G4, Key=67, Velocity=57
+Note Off, G4, Key=67
+
